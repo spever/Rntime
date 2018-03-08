@@ -2,5 +2,19 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#F14081</color>
+
+
+    <color name="tab_checked">#3F51B5</color>
+    <color name="tab_unchecked">#757575</color>
+    <color name="toast_bg_color">#7d7d7d</color>
+    <color name="text_black">#444444</color>
+    <color name="line_horizontal">#eeeeee</color>
+    <color name="white">#ffffff</color>
+    <color name="ctcolor_gray_e">#999999</color>
+
+    <color name="transparent">#00000000</color>
+
+
+    <color name="headbg">#D8BFD8</color>
 </resources>
